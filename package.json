@@ -1,0 +1,12 @@
+{
+  "name": "opw3-webport",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python tools/serve.py",
+    "build:demo": "python tools/build.py demo",
+    "inspect:dump": "python tools/inspect_dump.py",
+    "test": "node --test tests/input.test.js"
+  },
+  "devDependencies": {"@playwright/test": "^1.56.1"}
+}

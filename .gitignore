@@ -1,0 +1,17 @@
+/rom/
+/external/
+/build/
+/generated/
+/web/runtime/
+/node_modules/
+/test-results/
+/.antigravity/
+/coverage-idle.txt
+/web/dump-report.json
+__pycache__/
+*.idb
+*.i64
+*.id0
+*.id1
+*.nam
+*.til
